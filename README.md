@@ -28,6 +28,22 @@ To show how to create projects into Kubernetes-native pipelines to do our CI/CD 
 <h3>Project Structure</h3>
 
 ```
-Teste
+$ tree
+└── config
+    ├── base
+    │   ├── config-map.yaml
+    │   ├── deployment.yaml
+    │   ├── kustomization.yaml
+    │   ├── route.yaml
+    │   └── service.yaml
+    └── overlays
+        ├── dev
+        │   └── kustomization.yaml
+        ├── prod
+        │   └── kustomization.yaml
+        └── stage
+            ├── apply-health-checks.yaml
+            ├── change-env-value.yaml
+            └── kustomization.yaml
 
 
