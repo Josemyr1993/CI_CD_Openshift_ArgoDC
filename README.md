@@ -47,3 +47,7 @@ $ tree
             └── kustomization.yaml
 
 ```
+
+<h1>References</h1>
+
+- Getting-GitOps-ebook
