@@ -1,5 +1,5 @@
 # CI_CD_Openshift_ArgoDC
-![Animation](https://github.com/user-attachments/assets/913a7ec2-f7a8-4381-bb39-68e6afcc53cc)
+![Animation](https://github.com/user-attachments/assets/913a7ec2-f7a8-4381-bb39-68e6afcc53cc=250x250)
 
 Repository Created with Getting-GitOps Ebook
 
