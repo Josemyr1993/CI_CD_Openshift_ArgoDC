@@ -1,4 +1,4 @@
-# CI_CD_Openshift_ArgoDC
+# CI/CD - GitOps and ArgosCD With Openshift
 <img src="https://github.com/Josemyr1993/CI_CD_Openshift_ArgoDC/blob/main/Animation.gif" heigh="500" width="700">
 
 
